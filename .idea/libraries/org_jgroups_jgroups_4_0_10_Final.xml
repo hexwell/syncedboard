@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.jgroups:jgroups:4.0.10.Final" type="repository">
+    <properties maven-id="org.jgroups:jgroups:4.0.10.Final" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jgroups-4.0.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jgroups-4.0.10.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

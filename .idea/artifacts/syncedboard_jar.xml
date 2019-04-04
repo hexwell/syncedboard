@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="syncedboard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/syncedboard_jar</output-path>
+    <root id="archive" name="syncedboard.jar">
+      <element id="module-output" name="syncedboard" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/darcula.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jgroups-4.0.10.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
